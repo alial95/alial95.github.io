@@ -1357,6 +1357,8 @@ header .logo a {
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
 .intro-content img {
+	height: 200px;
+	width: 200px;
 	border-radius: 50%;
 	display: block;
 	margin-left: auto;
