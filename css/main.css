@@ -1603,14 +1603,14 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 10rem;
+		width: 10rem;
 		float: none;
 		display: inline-block;
 	}
 	.intro-info .lead {
 		padding-left: 0;
-		text-align: center;
+		text-align: right;
 	}
 }
 
