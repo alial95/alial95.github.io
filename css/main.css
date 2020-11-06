@@ -1356,6 +1356,15 @@ header .logo a {
 	color: #FFFFFF;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
+.intro-content img {
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin: .9rem 0 0 0;
+}
 .intro-content .intro-position span {
 	display: inline-block;
 }
@@ -1517,7 +1526,7 @@ header .logo a {
 
 .about-content {
 	position: relative;
-	text-align: left;
+	text-align: center;
 	max-width: 850px;
 	margin-bottom: 3.6rem;
 }
