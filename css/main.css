@@ -1809,7 +1809,6 @@ header .logo a {
 }
 #portfolio .folio-item img {
 	vertical-align: middle;
-	height: max-content;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
