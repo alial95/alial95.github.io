@@ -1808,7 +1808,7 @@ header .logo a {
 	overflow: hidden;
 }
 #portfolio .folio-item img {
-	vertical-align: middle;
+	vertical-align: bottom;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
